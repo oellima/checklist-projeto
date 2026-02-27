@@ -3,7 +3,7 @@
 O **Checklist Projeto** é uma aplicação web moderna e minimalista para gestão de tarefas e requisitos de projetos. Desenvolvida com **React** e **Tailwind CSS**, a ferramenta foca em produtividade, oferecendo uma interface limpa, persistência de dados local e um sistema visual de progresso.
 
 
-[Image of project management dashboard UI layout]
+[Imagem do layout da interface do usuário do painel de gerenciamento do projeto]
 
 <img width="1907" height="899" alt="image" src="https://github.com/user-attachments/assets/82391ad9-c750-4806-b3d2-c57aeb99ff3f" />
 
