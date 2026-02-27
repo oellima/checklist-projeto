@@ -49,3 +49,5 @@ yarn install
 npm run dev
 ```
 Acesse http://localhost:5173 no seu navegador.
+
+link do projeto no ar pela plataforma VERCEL: https://checklist-projeto.vercel.app/
